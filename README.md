@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ensar Vragic</h1>
+<h1 align="center" style={{color: 'white'}}>Hi 👋 I'm Ensar Vragic</h1>
 - 🌱 I’m currently learning TYPESCRIPT and NEXT.js
 <hr>
 <h3 align="left">🌐 Socials:</h3>
