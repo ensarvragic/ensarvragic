@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ensar Vragic</h1>
-- 🌱 I’m currently learning **React Native**
+<hr>
+- 🌱 I’m currently learning TypeScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
